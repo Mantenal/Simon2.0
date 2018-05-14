@@ -42,8 +42,8 @@ public class Principal extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.principal);
-        /*Base_Datos conn = new Base_Datos(this, "bd", null, 1);
-        SQLiteDatabase db = conn.getWritableDatabase();
+        Base_Datos conn = new Base_Datos(this, "bd", null, 1);
+        /*SQLiteDatabase db = conn.getWritableDatabase();
         db.execSQL("Insert into datos values (1,2)");
         db.close();*/
     }
