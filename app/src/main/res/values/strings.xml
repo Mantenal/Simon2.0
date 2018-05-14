@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SIMON</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="ppm">PPM</string>
+    <string name="posicion">Posicion</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="red">red</string>
+    <string name="restaurar">restaurar</string>
+    <string name="guardar">guardar</string>
+    <string name="sexo">Sexo</string>
+    <string name="peso">Peso</string>
+    <string name="notificacion_de_sue_o">Notificacion de Sueño</string>
+    <string name="notificacion_de_ruido">Notificacion de Ruido</string>
+    <string name="valores_personalizados">Valores Personalizados</string>
+    <string name="ritmo_cardiaco">Ritmo Cardiaco</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento</string>
+    <string name="MAIN" />
+
+    <string-array name="sexo">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+
+</resources>
